@@ -1,0 +1,136 @@
+body .gce-event-info {
+	background: #fff url(images/gce/bg_dropdown.gif) bottom repeat-x;
+	border: 1px solid #d7d7d7;
+	max-width: 450px;
+	z-index: 1001;	
+}
+
+body .gce-event-info,
+body .gce-event-info p {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+body .gce-event-info p {
+	padding: 2px 3px;
+	color: #333;
+}
+
+body .gce-event-info ul li {
+	margin: 0;
+}
+
+body .gce-event-info p.gce-tooltip-event {
+	background: url(images/gce/bg_hdr.png) bottom repeat-x;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.gce-event-info ul li p.gce-tooltip-event span {
+	color: #666;	
+}
+
+table.gce-calendar {
+	/*width: 285px !important;*/
+	width: 95% !important;
+	margin: 0 auto;
+}
+
+body .gce-widget-grid .gce-calendar td.gce-today {
+	color: #fff;
+	font-family: 'proxima-nova-condensed', Arial, Helvetica, Tahoma, sans-serif;
+	background-color: #d7d7d7;
+}
+
+html.windows .gce-widget-grid .gce-calendar td.gce-today {
+	font-weight: 700;
+	font-family: 'proxima-nova-condensed', Arial, Helvetica, Tahoma, sans-serif;
+}
+
+.gce-widget-grid .gce-calendar .gce-next,
+.gce-widget-grid .gce-calendar .gce-prev {
+	width: 18px;
+}
+
+.gce-widget-grid .gce-calendar .gce-next a,
+.gce-widget-grid .gce-calendar .gce-prev a {
+	display: block;
+	width: 18px;
+	height: 18px;
+	text-indent: -999em;
+	background: url(images/gce/icons_calendar.png) -23px top no-repeat;
+}
+
+.gce-widget-grid .gce-calendar .gce-prev a {
+	background: url(images/gce/icons_calendar.png) no-repeat;
+}
+
+.gce-ical-link a,
+.gce-google-link a {
+	padding-left: 22px;
+	display: block;
+	min-height: 20px;
+	color: #666;
+}
+
+.gce-ical-link a {
+	background: url(images/gce/icons_calendar.png) left bottom no-repeat;
+	margin-bottom: 2px;
+}
+
+.gce-google-link a {
+	background: url(images/gce/icons_calendar.png) left -32px no-repeat;
+	min-height: 22px;
+}
+
+div.qtip {
+	width: 400px !important;
+}
+
+.gce-page-list .gce-list .gce-list-title {
+    font-weight: normal;
+	font-size: 1.5em;
+color: #336699;
+}
+
+.archive-page ul.gce-list li, .entry-content ul.gce-list li {
+    list-style-type: none;	
+    margin: 0 0 20px;
+    padding: 5px 2px 2px 2px;
+	font-family:'adobe-caslon-pro',Georgia,sans-serif;
+	font-size:1.1em;
+}
+
+.archive-page .gce-list div,
+.entry-content .gce-list div,
+.archive-page .gce-list p,
+.entry-content .gce-list p {
+	padding: 2px 4px;	
+	line-height:1.2em;
+}
+
+.archive-page .gce-list div div,
+.entry-content .gce-list div div {
+	padding: 0;	
+}
+.gce-page-list .gce-list .gce-list-event {
+	background-color: #f7f7f7;
+	margin: 0 0 8px 0;
+	padding: 8px 8px 2px 8px;
+	height:auto;
+	border: 1px dotted #ccc;
+	height:auto;
+}
+.gce_sync img {
+	display:inline;
+	border:none;
+	float:left;
+	clear:none;
+	padding:3px;
+}
+.gce_sync {
+	max-width:100%;
+	clear:both;
+	float:none;
+}
+

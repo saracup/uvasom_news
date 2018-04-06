@@ -1,0 +1,83 @@
+div.uvasom_sub_menu {
+    top:95px;
+}
+div.dropshadow.topside {
+	margin:0 auto;
+	width:980px;
+	padding:0px;
+	zoom: 1;
+
+}
+div.dropshadow.side {
+	margin:0 auto;
+	width:980px;
+	zoom: 1;
+
+}
+div.dropshadow.bottomside {
+	margin:0 auto;
+	width:980px;
+	zoom: 1;
+
+}
+div#nav {
+}
+#nav ul.menu.superfish.sf-js-enabled, #nav ul.menu.superfish.sf-js-enabled li {
+display: block;
+zoom:1;
+}
+#nav ul.menu.superfish.sf-js-enabled li a {
+display: block;
+zoom:1;
+background:none;
+background-color:#fff;
+padding:5px 15px 12px 15px;
+line-height:2.3;
+}
+#nav ul.menu.superfish.sf-js-enabled li.current_page_item a,
+#nav ul.menu.superfish.sf-js-enabled li.current-cat a,
+#nav ul.menu.superfish.sf-js-enabled li.current-menu-item a,
+#nav ul.menu.superfish.sf-js-enabled li a:hover, #nav ul.menu.superfish.sf-js-enabled li a:active {
+color: #333;
+background: url(images/bg-light.png);
+}
+#uvasom-inner {
+	background-position:100% -12px;
+	margin-bottom:0px;
+	
+}
+#healthsystem-inner #uvasom_sitesearch {
+width: 170px;
+margin: 0 20px 0 20px;
+}
+#healthsystem-inner #uvasom_sitesearch input#q_sitewide {
+width: 130px;
+}
+#uvasom-menu {
+margin-left: 0;
+margin-top:-3px;
+}
+#uvasom-menu-top-bar li.menu-item a {
+	padding: 9px 7px 13px 7px;
+	font-size: 0.8em;
+}
+div#hs-menu-link a {
+font-size: 0.7em;
+}
+div#hs-menu-link {
+padding: 12px 4px 8px 4px;
+}
+div.uvasom_sub_menu {
+top:38px;
+}
+#uvasom-menu.lower {
+top:33px;
+}
+
+#hs-menu-top-bar {
+margin: -4px auto 0 auto;
+height:28px;
+}
+#hs-menu-top-bar li.menu-item a {
+padding: 5px 16px 7px 16px;
+}

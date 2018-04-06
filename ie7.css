@@ -1,0 +1,44 @@
+div.uvasom_sub_menu {
+	margin-left:-481px;
+    top:97px;
+}
+div.uvasom_sub_menu {
+	font-size:1.2xem;
+}
+#healthsystem-inner #uvasom_sitesearch input#q_sitewide {
+margin:0;
+}
+div#hs-menu-link {
+width:120px;
+}
+div#hs-menu-link a {
+font-size:9px;
+}
+#hs-menu-top-bar li.menu-item a {
+padding: 5px 16px 7px 16px;
+}
+#hs-menu-top-bar {
+margin: 2px auto;
+height:22px;
+}
+#uvasom-menu {
+top: 7px;
+}
+#uvasom-menu-top-bar li.menu-item a {
+padding: 10px 8px 11px 8px;
+}
+#hs-menu-top-bar li.menu-item a {
+	padding: 12px 16px 2px 16px;
+}
+#healthsystem {
+height:38px;
+} 
+#uvasom_sitesearch {
+	height:22px;
+	padding:0;
+}
+#healthsystem-inner #uvasom_sitesearch input.uvasomsearchsubmit {
+	color:#034471;
+}
+
+
